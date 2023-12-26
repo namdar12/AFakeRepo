@@ -2,28 +2,25 @@
   {
     "type": "step",
     "step": {
-      "_key": "cbhE2JGiUqsg",
+      "_key": "_WQo3uAfbdpb",
       "type": "step",
-      "definition_id": "cbhE2JGiUqsg",
+      "definition_id": "_WQo3uAfbdpb",
       "title": "New step",
       "key": "Newstep",
       "label_definition_ids": [],
-      "action_definition_ids": [
-        "KuDBBAdone1s",
-        "90wwTEDr-9Pa"
-      ],
+      "action_definition_ids": [],
       "track_definition_id": "xO-4ZAWByKcT",
       "coordinates": {
-        "x": 432,
-        "y": 288
+        "x": 480,
+        "y": 272
       },
       "created": {
         "user_id": "X_LD66D4d4lmm3A1I3IWM",
-        "date": "2023-12-13T01:17:45.059Z"
+        "date": "2023-12-26T22:20:32.509Z"
       },
       "last_updated": {
-        "date": "2023-12-22T01:05:14.955Z",
-        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-26T22:20:32.509Z"
       }
     }
   }

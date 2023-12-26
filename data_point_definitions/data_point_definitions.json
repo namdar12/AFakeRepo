@@ -358,5 +358,45 @@
       },
       "qualified_key": "Defaulttrack.CompletionDate"
     }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "_WQo3uAfbdpb-ACTIVATION",
+      "definition_id": "_WQo3uAfbdpb-ACTIVATION",
+      "key": "ActivationDate",
+      "source_definition_id": "_WQo3uAfbdpb",
+      "category": "step",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-26T22:20:32.509Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-26T22:20:32.509Z"
+      },
+      "qualified_key": "Newstep.ActivationDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "_WQo3uAfbdpb-COMPLETION",
+      "definition_id": "_WQo3uAfbdpb-COMPLETION",
+      "key": "CompletionDate",
+      "source_definition_id": "_WQo3uAfbdpb",
+      "category": "step",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-26T22:20:32.509Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-26T22:20:32.509Z"
+      },
+      "qualified_key": "Newstep.CompletionDate"
+    }
   }
 ]

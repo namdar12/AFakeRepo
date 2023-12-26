@@ -2,34 +2,34 @@
   {
     "type": "rule",
     "rule": {
-      "_key": "-60pmqKYEMZr",
-      "definition_id": "-60pmqKYEMZr",
+      "_key": "jP4sXOXoSs_b",
+      "definition_id": "jP4sXOXoSs_b",
       "conditions": [],
       "boolean_operator": "and",
       "created": {
         "user_id": "X_LD66D4d4lmm3A1I3IWM",
-        "date": "2023-12-13T01:17:46.733Z"
+        "date": "2023-12-26T22:20:34.380Z"
       },
       "last_updated": {
         "user_id": "X_LD66D4d4lmm3A1I3IWM",
-        "date": "2023-12-13T01:17:46.733Z"
+        "date": "2023-12-26T22:20:34.380Z"
       }
     }
   },
   {
     "type": "rule",
     "rule": {
-      "_key": "g7KmPoNNP6XS",
-      "definition_id": "g7KmPoNNP6XS",
+      "_key": "Wvcz8Q4XLkRG",
+      "definition_id": "Wvcz8Q4XLkRG",
       "conditions": [],
       "boolean_operator": "and",
       "created": {
         "user_id": "X_LD66D4d4lmm3A1I3IWM",
-        "date": "2023-12-13T01:17:48.592Z"
+        "date": "2023-12-26T22:20:36.645Z"
       },
       "last_updated": {
         "user_id": "X_LD66D4d4lmm3A1I3IWM",
-        "date": "2023-12-13T01:17:48.592Z"
+        "date": "2023-12-26T22:20:36.645Z"
       }
     }
   }
